@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DenisWachira\\Desktop\\C-Sharp\\C#\\2-Control_Flow_Stuctures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A084C89E-1843-4288-A90E-369C6F1F5311}|2-Control_Flow_Stuctures\\2-Control_Flow_Stuctures.csproj|c:\\users\\deniswachira\\desktop\\c-sharp\\c#\\2-control_flow_stuctures\\2-control_flow_stuctures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A084C89E-1843-4288-A90E-369C6F1F5311}|2-Control_Flow_Stuctures\\2-Control_Flow_Stuctures.csproj|solutionrelative:2-control_flow_stuctures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DenisWachira\\Desktop\\C-Sharp\\C#\\2-Control_Flow_Stuctures\\2-Control_Flow_Stuctures\\Program.cs",
+              "RelativeDocumentMoniker": "2-Control_Flow_Stuctures\\Program.cs",
+              "ToolTip": "C:\\Users\\DenisWachira\\Desktop\\C-Sharp\\C#\\2-Control_Flow_Stuctures\\2-Control_Flow_Stuctures\\Program.cs*",
+              "RelativeToolTip": "2-Control_Flow_Stuctures\\Program.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:10:58.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
