@@ -1,0 +1,14 @@
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\bin\Debug\net9.0\hello-word.exe
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\bin\Debug\net9.0\hello-word.deps.json
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\bin\Debug\net9.0\hello-word.runtimeconfig.json
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\bin\Debug\net9.0\hello-word.dll
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\bin\Debug\net9.0\hello-word.pdb
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\hello-word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\hello-word.AssemblyInfoInputs.cache
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\hello-word.AssemblyInfo.cs
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\hello-word.csproj.CoreCompileInputs.cache
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\hello-word.dll
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\refint\hello-word.dll
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\hello-word.pdb
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\hello-word.genruntimeconfig.cache
+C:\Users\DenisWachira\Desktop\C-Sharp\C#\hello-word\obj\Debug\net9.0\ref\hello-word.dll
