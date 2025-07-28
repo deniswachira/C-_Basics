@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-Control_Flow_Stuctures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cfb1ecb9658058d866719362d1fd73fd4a35b5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fddddaf49d3b80463aa4776bb331461fab8250f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-Control_Flow_Stuctures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-Control_Flow_Stuctures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
