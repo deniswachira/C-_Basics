@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DenisWachira\\Desktop\\C-Sharp\\C#\\3-Smart_Utility_Toolkit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF0F8DE2-EB09-41BF-A878-D8E6CA82C860}|3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit.csproj|c:\\users\\deniswachira\\desktop\\c-sharp\\c#\\3-smart_utility_toolkit\\3-smart_utility_toolkit\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CF0F8DE2-EB09-41BF-A878-D8E6CA82C860}|3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit.csproj|solutionrelative:3-smart_utility_toolkit\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF0F8DE2-EB09-41BF-A878-D8E6CA82C860}|3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit.csproj|c:\\users\\deniswachira\\desktop\\c-sharp\\c#\\3-smart_utility_toolkit\\3-smart_utility_toolkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF0F8DE2-EB09-41BF-A878-D8E6CA82C860}|3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit.csproj|solutionrelative:3-smart_utility_toolkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F8DE2-EB09-41BF-A878-D8E6CA82C860}|3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit.csproj|c:\\users\\deniswachira\\desktop\\c-sharp\\c#\\3-smart_utility_toolkit\\3-smart_utility_toolkit\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CF0F8DE2-EB09-41BF-A878-D8E6CA82C860}|3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit.csproj|solutionrelative:3-smart_utility_toolkit\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\DenisWachira\\Desktop\\C-Sharp\\C#\\3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit\\.gitignore",
               "RelativeDocumentMoniker": "3-Smart_Utility_Toolkit\\.gitignore",
               "ToolTip": "C:\\Users\\DenisWachira\\Desktop\\C-Sharp\\C#\\3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit\\.gitignore",
               "RelativeToolTip": "3-Smart_Utility_Toolkit\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-28T19:32:27.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DenisWachira\\Desktop\\C-Sharp\\C#\\3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit\\Program.cs",
               "RelativeDocumentMoniker": "3-Smart_Utility_Toolkit\\Program.cs",
               "ToolTip": "C:\\Users\\DenisWachira\\Desktop\\C-Sharp\\C#\\3-Smart_Utility_Toolkit\\3-Smart_Utility_Toolkit\\Program.cs",
               "RelativeToolTip": "3-Smart_Utility_Toolkit\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T19:24:40.17Z",
               "EditorCaption": ""
